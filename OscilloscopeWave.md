@@ -12,7 +12,8 @@ Generic Wave and how capacitor charges and discharges during cycle
 # Duty Cycle
 
 Controlled by the potentiometer.
-<img width="241" height="77" alt="image" src="https://github.com/user-attachments/assets/ee7ee8a5-af8f-4c4a-a602-11f9ab88aa47" />
+<img width="1847" height="702" alt="image" src="https://github.com/user-attachments/assets/20f4a983-37c0-4ef5-bc36-a84bed077249" />
+
 
 - Potentiometer → changes the charging/discharging resistance
 - Resistance → changes how long the output stays HIGH vs. LOW
