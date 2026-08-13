@@ -4,7 +4,7 @@ Generic Wave and how capacitor charges and discharges during cycle
 <img width="1315" height="656" alt="image" src="https://github.com/user-attachments/assets/1db2cc10-c1e3-485c-b8ed-750e51f87222" />
 
 
-<img width="997" height="600" alt="image" src="https://github.com/user-attachments/assets/1a7690da-d8cd-4983-bd26-b8f3fadb191c" />
+<img width="1847" height="702" alt="image" src="https://github.com/user-attachments/assets/20f4a983-37c0-4ef5-bc36-a84bed077249" />
 - Time Base = 10 ms/div
 - Voltage Scale = 5 V/div
 
@@ -12,8 +12,6 @@ Generic Wave and how capacitor charges and discharges during cycle
 # Duty Cycle
 
 Controlled by the potentiometer.
-<img width="1847" height="702" alt="image" src="https://github.com/user-attachments/assets/20f4a983-37c0-4ef5-bc36-a84bed077249" />
-
 
 - Potentiometer → changes the charging/discharging resistance
 - Resistance → changes how long the output stays HIGH vs. LOW
