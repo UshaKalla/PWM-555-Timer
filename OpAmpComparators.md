@@ -11,8 +11,8 @@ The comparators compare the capacitor voltage against two reference voltages:
 
 For a 5 V supply:
 
-- \(1/3VCC \approx 1.67V\)
-- \(2/3VCC \approx 3.33V\)
+- \(1/3VCC  1.67V\)
+- \(2/3VCC  3.33V\)
 
 ---
 # Where Do the Reference Voltages Come From?
