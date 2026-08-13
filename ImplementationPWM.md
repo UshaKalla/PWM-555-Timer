@@ -1,7 +1,7 @@
 # PWM = Pulse Width Modulation.
 
 It is a way of controlling the average power delivered to something by rapidly switching the voltage ON and OFF.
-
+Using 1N5817 Schottky Diode as D1 and D2, and a 10kΩ potentiometer. 
 <img width="1187" height="620" alt="image" src="https://github.com/user-attachments/assets/c0ce2858-ef1a-4109-a70e-0d9bf50f609c" />
 
 The two diodes allow the potentiometer to affect the charging path and discharging path differently.
