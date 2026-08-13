@@ -50,7 +50,7 @@ SR Latch
       ↓
 Q = HIGH
 
-# Upper Threshold
+Upper Threshold
 Vcap > 3.33 V
       ↓
 Upper Comparator
